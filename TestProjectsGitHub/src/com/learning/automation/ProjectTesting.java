@@ -6,6 +6,7 @@ public class ProjectTesting {
 		int mel =5;
 		int meli =7;
 		int melia = 8;
+		int melias =5;
 		int me =0;
 	}
 	
