@@ -8,6 +8,8 @@ public class ProjectTesting {
 		int melia = 8;
 		int melias =5;
 		int me =0;
+		me = mel + meli + melia + melias;
+		
 	}
 	
 
